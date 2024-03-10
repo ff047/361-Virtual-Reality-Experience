@@ -1,0 +1,26 @@
+{
+"name": "3610-kok-yuo",
+"version": "1.0.0",
+"description": "Immerse yourself in a virtual world with this interactive and visually stunning VR experience.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/ff047/361-Virtual-Reality-Experience.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "ff047",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
